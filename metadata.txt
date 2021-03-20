@@ -12,8 +12,8 @@ email=pinnavalerio@yahoo.co.uk
 
 about=
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/ValPinnaSardinia/OA_Webmap_updater
+repository=https://github.com/ValPinnaSardinia/OA_Webmap_updater
 # End of mandatory metadata
 
 # Recommended items:
