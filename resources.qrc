@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/OA_WebMap_Updater" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
